@@ -63,7 +63,7 @@ usb_modeswitch
 vim-minimal
 vpnc
 wget
-wireless_tools
+# wireless_tools
 #wpa_actiond
 wvdial
 xl2tpd
