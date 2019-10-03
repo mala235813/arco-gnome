@@ -143,12 +143,12 @@ pavucontrol
 #volumeicon
 
 #bluetooth
-blueberry
-bluez
-bluez-libs
-bluez-utils
+# blueberry
+# bluez
+# bluez-libs
+# bluez-utils
 #bluez-firmware
-pulseaudio-bluetooth
+# pulseaudio-bluetooth
 
 #network
 avahi
