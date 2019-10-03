@@ -339,7 +339,7 @@ intltool
 iw
 jsoncpp
 libmtp
-laptop-detect
+# laptop-detect
 lsb-release
 mlocate
 nomacs
